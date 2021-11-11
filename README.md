@@ -3,6 +3,9 @@
   <a href="https://twitter.com/pheralb_">
     <img align="left" alt="Pablo Hdez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
+  <a href="https://www.linkedin.com/feed/">
+    <img align="left" alt="Pablo Hdez | Linkedin" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
+  </a>
 </p>
 <br />
 
