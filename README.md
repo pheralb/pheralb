@@ -1,4 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello
 <p align="center">
   <a href="https://twitter.com/pheralb_">
     <img align="left" alt="Pablo Hdez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
