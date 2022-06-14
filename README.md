@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/pheralb#gh-dark-mode-only">
   <img alt="Pablo Hdez | Linkedin" width="30px" src="./assets/dark/linkedin.svg" />
 </a>
-<br />
+<br /><br />
 
 - 💻 I'm a full-stack web developer.
 - 💙 I'm studying differents web technologies like React or Node JS.
