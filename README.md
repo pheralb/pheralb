@@ -1,20 +1,23 @@
-## Hello
-<p align="center">
-  <a href="https://twitter.com/pheralb_">
-    <img align="left" alt="Pablo Hdez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/pheralb">
-    <img align="left" alt="Pablo Hdez | Linkedin" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
-  </a>
-</p>
+## 👋 Hi, I'm Pablo.
+<a href="https://twitter.com/pheralb_#gh-light-mode-only">
+  <img alt="Pablo Hdez | Twitter" width="30px" src="./assets/light/twitter.svg" />
+</a>
+<a href="https://twitter.com/pheralb_#gh-dark-mode-only">
+  <img alt="Pablo Hdez | Twitter" width="30px" src="./assets/dark/twitter.svg" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pheralb#gh-light-mode-only">
+  <img alt="Pablo Hdez | Linkedin" width="30px" src="./assets/light/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/pheralb#gh-dark-mode-only">
+  <img alt="Pablo Hdez | Linkedin" width="30px" src="./assets/dark/linkedin.svg" />
+</a>
 <br />
 
-## About me:
+- 💻 I'm a full-stack web developer.
+- 💙 I'm studying differents web technologies like React or Node JS.
 
-- I am a FullStack Developer 💻.
-- I'm studying differents web technologies like 💙 React or 💚 Node JS.
-
-## Technologies & Tools:
+## 🔧 Technologies & Tools:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,4 +27,3 @@
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
